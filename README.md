@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <div align=center>
@@ -22,8 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
 <div align=center>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
 </div>
 
 <!--
