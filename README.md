@@ -22,8 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
 <div align=center style='width: 100%;'>
-  <img align=right style='width: 60%;' src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
-  <img align=left style='width: 40%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
+  <img  style='width: 60%;' src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
+  <img  style='width: 40%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
 </div>
 
 <!--
