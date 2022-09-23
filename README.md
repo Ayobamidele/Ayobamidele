@@ -7,7 +7,7 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact)](https://github.com/Ayobamidele/Ayobamidele/) -->
-**Languages and Tools:** 
+# **Tech Stack:** 
 
 ![Django](https://img.shields.io/badge/-Django-black?logo=django&style=for-the-badge)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&style=for-the-badge)&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
 <div align=center>
-  <img align=right src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
+  <img align=right style='width: 90;'src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
 </div>
 
