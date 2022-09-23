@@ -1,12 +1,10 @@
 
 
-
 <div align=center>
     <img src="https://github.com/Ayobamidele/Ayobamidele/blob/main/github_profile2edited.gif" />
 </div>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact)](https://github.com/Ayobamidele/Ayobamidele/) -->
 # **Tech Stack:** 
 
 ![Django](https://img.shields.io/badge/-Django-black?logo=django&style=for-the-badge)&nbsp;&nbsp;
@@ -25,6 +23,9 @@
   <img  style='width: 60%;' src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
   <img  style='width: 40%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
 </div>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ayobamidele}/count.svg" alt="Ayobamidele :: Visitor's Count" /></p>
+<br/>
 
 <!--
 **Ayobamidele/Ayobamidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
