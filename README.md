@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+
+<div align=center>
+    <img src="https://github.com/Ayobamidele/Ayobamidele/blob/main/github_profile2edited.gif" />
+</div>
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact)](https://github.com/Ayobamidele/Ayobamidele/) -->
 **Languages and Tools:** 
 
@@ -15,8 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
 <div align=center>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Ayobamidele&show_icons=true&show_icons=true&theme=aura" />
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobamidele&layout=compact&show_icons=true&theme=aura" />
 </div>
 
 <!--
